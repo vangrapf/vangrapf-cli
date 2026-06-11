@@ -1,0 +1,4 @@
+# Vangrapf CLI dependencies
+yt-dlp
+requests
+rich
