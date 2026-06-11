@@ -31,3 +31,6 @@ Vangrapf CLI, для просмотра видео с Rutube, YouTube, VK Video,
     python3 main.py --watch --search "Mellstroy интервью вписка" --api-key <Your YouTube Data VPI v3>
 
 <img width="952" height="767" alt="Снимок экрана_20260611_234902" src="https://github.com/user-attachments/assets/3267a36f-f7fc-4f90-8436-9321a0d62b3f" />
+
+
+# ВНИМАНИЕ! СЕРВИС НЕ ТРЕБУЕТ VPN ИЛИ ОБХОДКИ!!! 
